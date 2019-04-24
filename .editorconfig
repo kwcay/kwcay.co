@@ -1,0 +1,14 @@
+# EditorConfig: http://EditorConfig.org
+
+root = true
+
+# Newline and charset
+[*]
+end_of_line = lf
+insert_final_newline = true
+charset = utf-8
+
+# Indentation override
+[*.{babelrc,js,json,scss}]
+indent_style = space
+indent_size = 2
