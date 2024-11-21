@@ -4,7 +4,6 @@ import styled from 'styled-components';
 export default () => (
   <React.Fragment>
     <Title>Kwahu &amp; Cayes</Title>
-    <Message>Coming Soon</Message>
   </React.Fragment>
 );
 
